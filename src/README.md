@@ -15,3 +15,13 @@ echo $HISTFILE
 ```bash
 cargo run <path/to/history/file>
 ```
+
+3. Options
+
+```bash
+# Enable colors
+cargo run $HISTFILE --colors
+
+# Change head length (max visible lines)
+cargo run $HISTFILE --head 10
+```
