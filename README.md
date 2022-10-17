@@ -1,6 +1,10 @@
+![Screenshot](./Screenshot.png)
+
 # term-history
 
-That little Rust powered CLI apps shows you which terminal programs you use most often.
+Little CLI app that shows you which terminal programs you use most often.
+
+It supports alias resolution for `zsh` shell.
 
 ## Usage
 
